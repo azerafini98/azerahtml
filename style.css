@@ -1,0 +1,42 @@
+body
+{
+	background-color:darkkhaki;
+}
+
+p
+{
+	font-family:curlz mt;
+	font-size:15px;
+	color:darkred;
+	text-align:center;
+	background-color:pink;
+}
+h1
+{
+	font-family:curlz mt;
+	font-size:30px;
+	color:darkkhaki;
+	text-align:center;
+	border:5px dotted blueviolet;
+	background-color:darkgrey;
+}
+h2
+{
+	font-family:curlz mt;
+	font-size:30px;
+	color:pink;
+	text-align:center;
+}
+h3
+{
+	font-family:curlz mt;
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+h4
+{
+	font-family:curlz mt;
+	font-size:30px;
+	color:pink;
+	text-align:center;
